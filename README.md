@@ -14,4 +14,4 @@
 - HW 3-2 Turret Game (Max Flow)
 - HW 3-3 Most Valuable Path (Bellman-Ford)
 - HW 3-4 Minimum K-th Smallest Edge Spanning Tree (MST)
-- ![score boord](https://people.cs.nctu.edu.tw/~tdwu402/2018_Algo/HW3/HW3.html)
+- [score boord](https://people.cs.nctu.edu.tw/~tdwu402/2018_Algo/HW3/HW3.html)
