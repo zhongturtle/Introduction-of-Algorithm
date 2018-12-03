@@ -10,3 +10,5 @@
 - HW 2-3 Number Of Red-Black Tree
 - HW 2-4 Maximum Rectangle
 ### HW3 -- Graph
+- HW 3-1 Alphabet path II (SCC)
+- HW 3-2 Turret Game (Max Flow)
