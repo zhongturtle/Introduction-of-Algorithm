@@ -15,3 +15,9 @@
 - HW 3-3 Most Valuable Path (Bellman-Ford)
 - HW 3-4 Minimum K-th Smallest Edge Spanning Tree (MST)
 - [score boord](https://people.cs.nctu.edu.tw/~tdwu402/2018_Algo/HW3/HW3.html)
+### Quiz0 
+- Quiz 0-1 Another Huffman Code
+- Quiz 0-2 DF-expression
+- Quiz 0-3 Maximum Subarray 2
+- Quiz 0-4 Locker Rental
+- Quiz 0-5 Counting Tuples 2
