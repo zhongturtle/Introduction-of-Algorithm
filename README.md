@@ -22,3 +22,4 @@
 - Quiz 0-4 Locker Rental
 - Quiz 0-5 Counting Tuples 2
 - [score board](https://people.cs.nctu.edu.tw/~tdwu402/2018_Algo/Quiz0/Quiz0_rank.html)
+### Quiz1
