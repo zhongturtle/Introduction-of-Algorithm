@@ -23,3 +23,8 @@
 - Quiz 0-5 Counting Tuples 2
 - [score board](https://people.cs.nctu.edu.tw/~tdwu402/2018_Algo/Quiz0/Quiz0_rank.html)
 ### Quiz1
+- Quiz 1-1 Rainbow Monotonic Paths
+- Quiz 1-2 A 2-Player Game
+-	Quiz 1-3 Matrix Multiplications
+-	Quiz 1-4 Making a Detour
+- [score board](https://people.cs.nctu.edu.tw/~tdwu402/2018_Algo/Quiz1/Quiz1_rank.html)
