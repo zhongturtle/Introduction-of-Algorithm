@@ -4,11 +4,15 @@
 - HW 1-1 Bamboo Rat I
 - HW 1-2 Bamboo Rat II
 - HW 1-1 Bamboo Rat III
+- [score board](https://people.cs.nctu.edu.tw/~tdwu402/2018_Algo/HW1/HW1.html)
+- [Reference](https://hackmd.io/s/HkZdfJb0X)
 ### HW2 -- DP problem
 - HW 2-1 Minimum Maximum Difference Monotonic Paths
 - HW 2-2 Longest Palindromic Subsequence
 - HW 2-3 Number Of Red-Black Tree
 - HW 2-4 Maximum Rectangle
+- [score board](https://people.cs.nctu.edu.tw/~tdwu402/2018_Algo/HW2/HW2.html)
+- [Analysis](https://hackmd.io/s/BkXyeVdCm)
 ### HW3 -- Graph
 - HW 3-1 Alphabet path II (SCC)
 - HW 3-2 Turret Game (Max Flow)
