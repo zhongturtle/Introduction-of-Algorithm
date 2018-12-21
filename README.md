@@ -1,5 +1,9 @@
 # Introduction-of-Algorithm
 ## NCTU Introduction of Algorithm Homework & related code
+### HW0 -- PI
+- HW 0. pi
+- [score board](https://people.cs.nctu.edu.tw/~tdwu402/2018_Algo/HW0/HW0.html)
+- [Reference](https://hackmd.io/s/HJvOt-zdQ)
 ### HW1 -- Bamboo Rat
 - HW 1-1 Bamboo Rat I
 - HW 1-2 Bamboo Rat II
