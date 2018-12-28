@@ -36,3 +36,5 @@
 -	Quiz 1-3 Matrix Multiplications
 -	Quiz 1-4 Making a Detour
 - [score board](https://people.cs.nctu.edu.tw/~tdwu402/2018_Algo/Quiz1/Quiz1_rank.html)
+### HW4
+- [score board](https://people.cs.nctu.edu.tw/~tdwu402/2018_Algo/HW4/HW4.html)
