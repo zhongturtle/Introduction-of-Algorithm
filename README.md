@@ -39,6 +39,7 @@
 ### HW4 -- NP & LP
 - HW 4-0 Exercise LP Dye Factory
 - HW 4-1 Hamiltonian path
+- HW 4-2 Spanning Binary Tree
 - [score board](https://people.cs.nctu.edu.tw/~tdwu402/2018_Algo/HW4/HW4.html)
 
 ## GLPK reference
