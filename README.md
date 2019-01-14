@@ -40,6 +40,8 @@
 - HW 4-0 Exercise LP Dye Factory
 - HW 4-1 Hamiltonian path
 - HW 4-2 Spanning Binary Tree
+- HW 4-3 2-D Fractional Knapsack Problem with Deminishing Returns
+- HW 4-4 Guessing Numbers
 - [score board](https://people.cs.nctu.edu.tw/~tdwu402/2018_Algo/HW4/HW4.html)
 
 ## GLPK reference
