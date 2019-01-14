@@ -56,22 +56,25 @@ void solve(){
     vector<pair<int,int>> cont;
     for (int i=0; i<m; i++){
         int u, v; cin >> u >> v; // edge (u,v)
-        cont.push_back({u,v})
+        cont.push_back({u,v});
     }
 	cont.push_back( {7, 0} );
 	cont.push_back( {7, 1} );
-	for (int i = 1; i <= n; i ++) {
-		for (int j = i; j < n - 1; j ++) {
-			cont[m + 1].second = i - 1;
+	for (int i = 0; i < n; i ++) {
+		for (int j = i; j < n; j ++) {
+			cont[m + 1].second = i;
 			cont[m].second = j;
 			if (HamC(cont)) {
 				valid = true;
 				break;
 			}
+			else{
+				valid = false;
+			}
 		}
 		if (valid){
-            break;
-        }
+            		break;
+        	}
 	}
 	if (valid) {
         cout << "Yes";
