@@ -48,7 +48,7 @@ void solve(){
     bool valid = true;
     for (int i=0; i<m; i++){
         int u, v; cin >> u >> v; // edge (u,v)
-        cont.push_back({u,v})
+        cont.push_back({u,v});
     }
     cont.push_back({0, 5});
 	cont.push_back({5, 6});
@@ -56,8 +56,8 @@ void solve(){
 	for (int i = 0; i < 5; i ++) {
         tem = i;
 		cont[m].first = tem;
-		bitset<LEN> TST_result = TST(cont)
-        valid = valid & TST_result;
+		bitset<LEN> TST_result = TST(cont);
+        valid = valid & TST(cont);
 	}
 	if (valid){
         cout << "Yes";
