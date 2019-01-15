@@ -43,9 +43,29 @@ bool TST(const vector< pair<int,int> > &edges){
 // Complete the solve function below.
 void solve(){
     int n, m; cin >> n >> m;
+    vector<pair<int,int>>cont;
+    int tem;
+    bool valid = true;
     for (int i=0; i<m; i++){
         int u, v; cin >> u >> v; // edge (u,v)
+        cont.push_back({u,v})
     }
+    cont.push_back({0, 5});
+	cont.push_back({5, 6});
+	cont.push_back({6, 7});
+	for (int i = 0; i < 5; i ++) {
+        tem = i;
+		cont[m].first = tem;
+		bitset<LEN> TST_result = TST(cont)
+        valid = valid & TST_result;
+	}
+	if (valid){
+        cout << "Yes";
+    }
+	else{ 
+        cout << "No";
+    }
+    cout << endl;
 }
 
 int main(){
